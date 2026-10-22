@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[SOC and HoneyPot](https://github.com/Kristich/soc-and-honeypot/)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Kristich/soc-and-honeypot/)**
+- **[Threat Hunting Scenario (Phishing to Ransomware Investigation)](https://github.com/Kristich/Harborlight-Phishing-to-Ransomware-Investigation/)**
 
 <hr/>
 
