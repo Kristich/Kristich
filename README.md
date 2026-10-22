@@ -12,6 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[SOC and HoneyPot](https://github.com/Kristich/soc-and-honeypot/)**
 - **[Threat Hunting Scenario (Phishing to Ransomware Investigation)](https://github.com/Kristich/Harborlight-Phishing-to-Ransomware-Investigation/)**
+- **[STIGs Implementation](https://github.com/Kristich/STIG-Implementation)**
 
 <hr/>
 
